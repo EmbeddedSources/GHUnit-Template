@@ -6,7 +6,6 @@
 //  Copyright ___YEAR___ ___ORGANIZATIONNAME___. All rights reserved.
 //
 
-#import <GHUnitIOS/GHUnit.h>
  
 @interface ___FILEBASENAMEASIDENTIFIER___ : GHTestCase { }
 @end
