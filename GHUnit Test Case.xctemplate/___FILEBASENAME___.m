@@ -7,7 +7,7 @@
 //
 
  
-@interface ___FILEBASENAMEASIDENTIFIER___ : GHTestCase { }
+@interface ___FILEBASENAMEASIDENTIFIER___ : GHTestCase
 @end
  
 @implementation ___FILEBASENAMEASIDENTIFIER___
