@@ -1,4 +1,4 @@
-In order to install - just copy them to "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Templates/File Templates/Cocoa Touch" 
+In order to install - just copy them to "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Templates/File Templates/Cocoa Touch" 
 ( I suppose that xCode is installed in the default "/Developer" location ).
 
 License : BSD
